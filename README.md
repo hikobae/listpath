@@ -1,6 +1,6 @@
-# splitpath
+# listpath
 
-splitpath - split "PATH" and print.
+listpath - list "PATH" and print.
 
 ## License
 
